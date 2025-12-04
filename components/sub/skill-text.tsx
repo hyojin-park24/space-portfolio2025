@@ -26,7 +26,7 @@ export const SkillText = () => {
         variants={slideInFromLeft(0.5)}
         className="text-[30px] text-white font-medium mt-[10px] text-center mb-[15px]"
       >
-        Making apps with modern technologies.
+        최신 기술을 활용해 앱을 만듭니다.
       </motion.div>
 
       <motion.div

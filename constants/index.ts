@@ -92,7 +92,7 @@ export const SOCIALS = [
   {
     name: "Instagram",
     icon: RxInstagramLogo,
-    link: "https://instagram.com",
+    link: "https://www.instagram.com/dlems12.8/",
   },
   {
     name: "Facebook",
@@ -259,89 +259,89 @@ export const OTHER_SKILL = [
 
 export const PROJECTS = [
   {
-    title: "Modern Next.js 14 Portfolio",
+    title: "교적 웹 서비스 시스템 마이그레이션",
     description:
-      'Embark on a journey through my professional evolution with the "Modern Next.js Portfolio" - a dynamic showcase of my skills, experiences, and passion for web development. Crafted with precision and powered by Next.js, this portfolio is more than just a static display; it\'s an immersive experience that reflects the cutting edge of modern web technologies.',
+      '대한민국 대형 교단의 20만명 규모 데이터를 관리하는 기존 레거시 ERP를 현대적인 웹 기반 시스템으로 재구축한 프로젝트입니다. 프론트엔드로 1년간 활동 후 PM 역할을 맡아 도메인 설계, UI/UX 구조 구성, 5개의 화면 아키텍처를 리딩했습니다.',
     image: "/projects/project-1.png",
-    link: "https://example.com",
+    link: "",
   },
   {
-    title: "Interactive Cards Portfolio",
+    title: "실시간 상품관리 AppSheet 개발",
     description:
-      'Step into the extraordinary world of my professional journey through the "Interactive Cards Portfolio" - an innovative and visually captivating platform that redefines the traditional portfolio experience. Ditching the conventional static layout, this portfolio leverages interactive cards to showcase my skills, projects, and personality in an engaging and dynamic manner.',
+      'AppSheet 기반의 상품 관리 시스템을 개발하여 바이어의 실시간 상품 조회, 상태 관리, 중복 구매 방지 로직을 구현했습니다. Google Sheet/Drive·Automation을 연동하여 상태 기반 알림, 검수 리마인드, 구매대기 관리 등 주요 프로세스를 자동화했습니다. 그 결과 해외 현장 바잉의 효율성과 정확성을 크게 향상시켰습니다.',
     image: "/projects/project-2.png",
-    link: "https://example.com",
+    link: "",
   },
   {
-    title: "Space Themed Website",
+    title: "사르베토 서비스 홈페이지",
     description:
-      'Embark on an interstellar journey with my "Space Themed Website", a mesmerizing space-themed website that invites you to explore the cosmic wonders beyond our world. Immerse yourself in an awe-inspiring digital experience that blends cutting-edge design with the mysteries of the universe.',
+      '기존 블로그 상세페이지의 한계를 개선하기 위해 스토리 중심의 랜딩페이지를 기획·디자인·구축했습니다. 총 12개 섹션으로 구성된 페이지는 아임웹 기반으로 반응형 UI를 구현해 브랜드 메시지를 효과적으로 전달할 수 있도록 설계했습니다. 이후 요청에 따라 신규 섹션 2개를 추가 제작하며 확장 가능한 구조로 완성도를 높였습니다.',
     image: "/projects/project-3.png",
-    link: "https://example.com",
+    link: "https://sarbeto.com/",
   },
 ] as const;
 
 export const FOOTER_DATA = [
-  {
-    title: "Community",
-    data: [
-      {
-        name: "YouTube",
-        icon: FaYoutube,
-        link: "https://youtube.com",
-      },
-      {
-        name: "GitHub",
-        icon: RxGithubLogo,
-        link: "https://github.com",
-      },
-      {
-        name: "Discord",
-        icon: RxDiscordLogo,
-        link: "https://discord.com",
-      },
-    ],
-  },
-  {
-    title: "Social Media",
-    data: [
-      {
-        name: "Instagram",
-        icon: RxInstagramLogo,
-        link: "https://instagram.com",
-      },
-      {
-        name: "Twitter",
-        icon: RxTwitterLogo,
-        link: "https://twitter.com",
-      },
-      {
-        name: "Linkedin",
-        icon: RxLinkedinLogo,
-        link: "https://linkedin.com",
-      },
-    ],
-  },
-  {
-    title: "About",
-    data: [
-      {
-        name: "Become Sponsor",
-        icon: null,
-        link: "https://youtube.com",
-      },
-      {
-        name: "Learning about me",
-        icon: null,
-        link: "https://example.com",
-      },
-      {
-        name: "Contact Me",
-        icon: null,
-        link: "mailto:contact@example.com",
-      },
-    ],
-  },
+  // {
+  //   title: "Community",
+  //   data: [
+  //     {
+  //       name: "YouTube",
+  //       icon: FaYoutube,
+  //       link: "https://youtube.com",
+  //     },
+  //     {
+  //       name: "GitHub",
+  //       icon: RxGithubLogo,
+  //       link: "https://github.com",
+  //     },
+  //     {
+  //       name: "Discord",
+  //       icon: RxDiscordLogo,
+  //       link: "https://discord.com",
+  //     },
+  //   ],
+  // },
+  // {
+  //   title: "Social Media",
+  //   data: [
+  //     {
+  //       name: "Instagram",
+  //       icon: RxInstagramLogo,
+  //       link: "https://instagram.com",
+  //     },
+  //     {
+  //       name: "Twitter",
+  //       icon: RxTwitterLogo,
+  //       link: "https://twitter.com",
+  //     },
+  //     {
+  //       name: "Linkedin",
+  //       icon: RxLinkedinLogo,
+  //       link: "https://linkedin.com",
+  //     },
+  //   ],
+  // },
+  // {
+  //   title: "About",
+  //   data: [
+  //     {
+  //       name: "Become Sponsor",
+  //       icon: null,
+  //       link: "https://youtube.com",
+  //     },
+  //     {
+  //       name: "Learning about me",
+  //       icon: null,
+  //       link: "https://example.com",
+  //     },
+  //     {
+  //       name: "Contact Me",
+  //       icon: null,
+  //       link: "mailto:contact@example.com",
+  //     },
+  //   ],
+  // },
 ] as const;
 
 export const NAV_LINKS = [
@@ -360,5 +360,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/sanidhyy/space-portfolio",
+  sourceCode: "https://github.com/hyojin-park24",
 };
