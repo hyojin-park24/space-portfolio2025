@@ -3,7 +3,7 @@ const nextConfig = {
     output: "export",
 
     basePath: "/space-portfolio2025",
-    assetPrefix: "/space-portfolio2025", // 슬래시 제거
+    assetPrefix: "/space-portfolio2025/",
 
     images: {
         unoptimized: true,

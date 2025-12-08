@@ -10,19 +10,19 @@ import {
 export const SKILL_DATA = [
   {
     skill_name: "HTML",
-    image: "/space-portfolio2025/skills/html.png",
+    image: "/skills/html.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "CSS",
-    image: "/space-portfolio2025/skills/css.png",
+    image: "/skills/css.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "JavaScript",
-    image: "/space-portfolio2025/skills/js.png",
+    image: "/skills/js.png",
     width: 65,
     height: 65,
   },
@@ -214,7 +214,7 @@ export const BACKEND_SKILL = [
   },
   {
     skill_name: "Graphql",
-    image: "/space-portfolio2025/graphql.png",
+    image: "/space-portfolio2025/skills/graphql.png",
     width: 80,
     height: 80,
   },
