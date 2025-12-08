@@ -2,14 +2,12 @@
 const nextConfig = {
     output: "export",
 
-    // GitHub Pages 경로(저장소 이름)
     basePath: "/space-portfolio2025",
-    assetPrefix: "/space-portfolio2025/",
+    assetPrefix: "/space-portfolio2025", // 슬래시 제거
 
     images: {
         unoptimized: true,
     },
-
     trailingSlash: true,
 };
 
