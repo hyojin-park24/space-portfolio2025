@@ -281,68 +281,74 @@ export const PROJECTS = [
   },
 ] as const;
 
-export const FOOTER_DATA = [
-  // {
-  //   title: "Community",
-  //   data: [
-  //     {
-  //       name: "YouTube",
-  //       icon: FaYoutube,
-  //       link: "https://youtube.com",
-  //     },
-  //     {
-  //       name: "GitHub",
-  //       icon: RxGithubLogo,
-  //       link: "https://github.com",
-  //     },
-  //     {
-  //       name: "Discord",
-  //       icon: RxDiscordLogo,
-  //       link: "https://discord.com",
-  //     },
-  //   ],
-  // },
-  // {
-  //   title: "Social Media",
-  //   data: [
-  //     {
-  //       name: "Instagram",
-  //       icon: RxInstagramLogo,
-  //       link: "https://instagram.com",
-  //     },
-  //     {
-  //       name: "Twitter",
-  //       icon: RxTwitterLogo,
-  //       link: "https://twitter.com",
-  //     },
-  //     {
-  //       name: "Linkedin",
-  //       icon: RxLinkedinLogo,
-  //       link: "https://linkedin.com",
-  //     },
-  //   ],
-  // },
-  // {
-  //   title: "About",
-  //   data: [
-  //     {
-  //       name: "Become Sponsor",
-  //       icon: null,
-  //       link: "https://youtube.com",
-  //     },
-  //     {
-  //       name: "Learning about me",
-  //       icon: null,
-  //       link: "https://example.com",
-  //     },
-  //     {
-  //       name: "Contact Me",
-  //       icon: null,
-  //       link: "mailto:contact@example.com",
-  //     },
-  //   ],
-  // },
-] as const;
+// export const FOOTER_DATA = [
+//   {
+//     title: "Social",
+//     data: [
+//       {
+//         name: "GitHub",
+//         icon: RxGithubLogo,
+//         link: "https://github.com/hyojin-park24",
+//       },
+//       {
+//         name: "Instagram",
+//         icon: RxInstagramLogo,
+//         link: "https://www.instagram.com/dlems12.8/",
+//       },
+//       {
+//         name: "LinkedIn",
+//         icon: RxLinkedinLogo,
+//         link: "https://linkedin.com",
+//       },
+//     ],
+//   },
+//   {
+//     title: "Portfolio",
+//     data: [
+//       {
+//         name: "About Me",
+//         icon: null,
+//         link: "#about-me",
+//       },
+//       {
+//         name: "Skills",
+//         icon: null,
+//         link: "#skills",
+//       },
+//       {
+//         name: "Projects",
+//         icon: null,
+//         link: "#projects",
+//       },
+//     ],
+//   },
+//   {
+//     title: "Contact",
+//     data: [
+//       {
+//         name: "GitHub",
+//         icon: RxGithubLogo,
+//         link: "https://github.com/hyojin-park24",
+//       },
+//       {
+//         name: "Blog",
+//         icon: null,
+//         link: "https://your-blog-url.com",
+//       },
+//       {
+//         name: "Email",
+//         icon: null,
+//         link: "mailto:your@email.com",
+//       },
+//     ],
+//   },
+// ] as const;
+
+export const FOOTER_DATA: Array<{
+  title: string;
+  data: { name: string; link: string; icon?: any }[];
+}> = [];
+
 
 export const NAV_LINKS = [
   {
