@@ -10,79 +10,79 @@ import {
 export const SKILL_DATA = [
   {
     skill_name: "HTML",
-    image: "/skills/html.png",
+    image: "html.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "CSS",
-    image: "/skills/css.png",
+    image: "css.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "JavaScript",
-    image: "/skills/js.png",
+    image: "js.png",
     width: 65,
     height: 65,
   },
   {
     skill_name: "Tailwind CSS",
-    image: "/space-portfolio2025/skills/tailwind.png",
+    image: "tailwind.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "React",
-    image: "/space-portfolio2025/skills/react.png",
+    image: "react.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "Redux",
-    image: "/space-portfolio2025/skills/redux.png",
+    image: "redux.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "React Query",
-    image: "/space-portfolio2025/skills/reactquery.png",
+    image: "reactquery.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "TypeScript",
-    image: "/space-portfolio2025/skills/ts.png",
+    image: "ts.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "Next.js 14",
-    image: "/space-portfolio2025/skills/next.png",
+    image: "next.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "Framer Motion",
-    image: "/space-portfolio2025/skills/framer.png",
+    image: "framer.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "Stripe",
-    image: "/space-portfolio2025/skills/stripe.png",
+    image: "stripe.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "Node.js",
-    image: "/space-portfolio2025/skills/node.png",
+    image: "node.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "MongoDB",
-    image: "/space-portfolio2025/skills/mongodb.png",
+    image: "mongodb.png",
     width: 40,
     height: 40,
   },
@@ -92,7 +92,7 @@ export const SOCIALS = [
   {
     name: "Instagram",
     icon: RxInstagramLogo,
-    link: "https://www.instagram.com/dlems12.8/",
+    link: "https://instagram.com",
   },
   {
     name: "Facebook",
@@ -109,61 +109,61 @@ export const SOCIALS = [
 export const FRONTEND_SKILL = [
   {
     skill_name: "HTML",
-    image: "/space-portfolio2025/skills/html.png",
+    image: "html.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "CSS",
-    image: "/space-portfolio2025/skills/css.png",
+    image: "css.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "JavaScript",
-    image: "/space-portfolio2025/skills/js.png",
+    image: "js.png",
     width: 65,
     height: 65,
   },
   {
     skill_name: "Tailwind CSS",
-    image: "/space-portfolio2025/skills/tailwind.png",
+    image: "tailwind.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "Material UI",
-    image: "/space-portfolio2025/skills/mui.png",
+    image: "mui.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "React",
-    image: "/space-portfolio2025/skills/react.png",
+    image: "react.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "Redux",
-    image: "/space-portfolio2025/skills/redux.png",
+    image: "redux.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "React Query",
-    image: "/space-portfolio2025/skills/reactquery.png",
+    image: "reactquery.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "TypeScript",
-    image: "/space-portfolio2025/skills/ts.png",
+    image: "ts.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "Next.js 14",
-    image: "/space-portfolio2025/skills/next.png",
+    image: "next.png",
     width: 80,
     height: 80,
   },
@@ -172,49 +172,49 @@ export const FRONTEND_SKILL = [
 export const BACKEND_SKILL = [
   {
     skill_name: "Node.js",
-    image: "/space-portfolio2025/skills/node.png",
+    image: "node.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "Express.js",
-    image: "/space-portfolio2025/skills/express.png",
+    image: "express.png",
     width: 80,
     height: 80,
   },
   {
     skill_name: "MongoDB",
-    image: "/space-portfolio2025/skills/mongodb.png",
+    image: "mongodb.png",
     width: 40,
     height: 40,
   },
   {
     skill_name: "Firebase",
-    image: "/space-portfolio2025/skills/firebase.png",
+    image: "firebase.png",
     width: 55,
     height: 55,
   },
   {
     skill_name: "PostgreSQL",
-    image: "/space-portfolio2025/skills/postgresql.png",
+    image: "postgresql.png",
     width: 70,
     height: 70,
   },
   {
     skill_name: "MySQL",
-    image: "/space-portfolio2025/skills/mysql.png",
+    image: "mysql.png",
     width: 70,
     height: 70,
   },
   {
     skill_name: "Prisma",
-    image: "/space-portfolio2025/skills/prisma.png",
+    image: "prisma.png",
     width: 70,
     height: 70,
   },
   {
     skill_name: "Graphql",
-    image: "/space-portfolio2025/skills/graphql.png",
+    image: "graphql.png",
     width: 80,
     height: 80,
   },
@@ -223,26 +223,26 @@ export const BACKEND_SKILL = [
 export const FULLSTACK_SKILL = [
   {
     skill_name: "React Native",
-    image: "/space-portfolio2025/skills/reactnative.png",
+    image: "reactnative.png",
     width: 70,
     height: 70,
   },
   {
     skill_name: "Tauri",
-    image: "/space-portfolio2025/skills/tauri.png",
+    image: "tauri.png",
     width: 70,
     height: 70,
   },
   {
     skill_name: "Docker",
-    image: "/space-portfolio2025/skills/docker.png",
+    image: "docker.png",
     width: 70,
     height: 70,
   },
 
   {
     skill_name: "Figma",
-    image: "/space-portfolio2025/skills/figma.png",
+    image: "figma.png",
     width: 50,
     height: 50,
   },
@@ -251,7 +251,7 @@ export const FULLSTACK_SKILL = [
 export const OTHER_SKILL = [
   {
     skill_name: "Go",
-    image: "/space-portfolio2025/skills/go.png",
+    image: "go.png",
     width: 60,
     height: 60,
   },
@@ -261,21 +261,21 @@ export const PROJECTS = [
   {
     title: "교적 웹 서비스 시스템 마이그레이션",
     description:
-      '대한민국 대형 교단의 20만명 규모 데이터를 관리하는 기존 레거시 ERP를 현대적인 웹 기반 시스템으로 재구축한 프로젝트입니다. 프론트엔드로 1년간 활동 후 PM 역할을 맡아 도메인 설계, UI/UX 구조 구성, 5개의 화면 아키텍처를 리딩했습니다.',
+        '대한민국 대형 교단의 20만명 규모 데이터를 관리하는 기존 레거시 ERP를 현대적인 웹 기반 시스템으로 재구축한 프로젝트입니다. 프론트엔드로 1년간 활동 후 PM 역할을 맡아 도메인 설계, UI/UX 구조 구성, 5개의 화면 아키텍처를 리딩했습니다.',
     image: "/space-portfolio2025/projects/project-1.png",
     link: "",
   },
   {
     title: "실시간 상품관리 AppSheet 개발",
     description:
-      'AppSheet 기반의 상품 관리 시스템을 개발하여 바이어의 실시간 상품 조회, 상태 관리, 중복 구매 방지 로직을 구현했습니다. Google Sheet/Drive·Automation을 연동하여 상태 기반 알림, 검수 리마인드, 구매대기 관리 등 주요 프로세스를 자동화했습니다. 그 결과 해외 현장 바잉의 효율성과 정확성을 크게 향상시켰습니다.',
+        'AppSheet 기반의 상품 관리 시스템을 개발하여 바이어의 실시간 상품 조회, 상태 관리, 중복 구매 방지 로직을 구현했습니다. Google Sheet/Drive·Automation을 연동하여 상태 기반 알림, 검수 리마인드, 구매대기 관리 등 주요 프로세스를 자동화했습니다. 그 결과 해외 현장 바잉의 효율성과 정확성을 크게 향상시켰습니다.',
     image: "/space-portfolio2025/projects/project-2.png",
     link: "",
   },
   {
     title: "사르베토 서비스 홈페이지",
     description:
-      '기존 블로그 상세페이지의 한계를 개선하기 위해 스토리 중심의 랜딩페이지를 기획·디자인·구축했습니다. 총 12개 섹션으로 구성된 페이지는 아임웹 기반으로 반응형 UI를 구현해 브랜드 메시지를 효과적으로 전달할 수 있도록 설계했습니다. 이후 요청에 따라 신규 섹션 2개를 추가 제작하며 확장 가능한 구조로 완성도를 높였습니다.',
+        '기존 블로그 상세페이지의 한계를 개선하기 위해 스토리 중심의 랜딩페이지를 기획·디자인·구축했습니다. 총 12개 섹션으로 구성된 페이지는 아임웹 기반으로 반응형 UI를 구현해 브랜드 메시지를 효과적으로 전달할 수 있도록 설계했습니다. 이후 요청에 따라 신규 섹션 2개를 추가 제작하며 확장 가능한 구조로 완성도를 높였습니다.',
     image: "/space-portfolio2025/projects/project-3.png",
     link: "https://sarbeto.com/",
   },
@@ -349,7 +349,6 @@ export const FOOTER_DATA: Array<{
   data: { name: string; link: string; icon?: any }[];
 }> = [];
 
-
 export const NAV_LINKS = [
   {
     title: "About me",
@@ -366,5 +365,5 @@ export const NAV_LINKS = [
 ] as const;
 
 export const LINKS = {
-  sourceCode: "https://github.com/hyojin-park24",
+  sourceCode: "https://github.com/hyojin-park24/space-portfolio2025",
 };
