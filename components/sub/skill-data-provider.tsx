@@ -39,7 +39,7 @@ export const SkillDataProvider = ({
       custom={index}
       transition={{ delay: index * animationDelay }}
     >
-      <Image src={`/skills/${src}`} width={width} height={height} alt={name} />
+      <Image src={`/space-portfolio2025/skills/${src}`} width={width} height={height} alt={name} />
     </motion.div>
   );
 };
